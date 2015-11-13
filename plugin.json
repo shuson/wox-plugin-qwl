@@ -1,0 +1,12 @@
+{
+  "ID":"AD0218F00CFD24DDA89A35161D72E8EFD",
+  "ActionKeyword":"qwl",
+  "Name":"QWL",
+  "Description":"墙外楼",
+  "Author":"nevermoi",
+  "Version":"0.0.1",
+  "Language":"python",
+  "Website":"https://github.com/shuson/wox-plugin-qwl",
+  "IcoPath": "img\\letscorp.png",
+  "ExecuteFileName":"letscorp.py"
+}
